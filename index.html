@@ -4,17 +4,19 @@ title: Welcome
 ---
 
 
-{% for post in site.posts %}
+<div id="home">
 
-<article class='post'>
-  <h1 class='post-title'>
-    <a href="{{ site.path }}{{ post.url }}">
-      {{ post.title }}
-    </a>
-  </h1>
-  <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
-  {{ post.content }}
-</article>
+  <h1>Posts</h1>
+    <ul class="posts">
+      {% for post in site.posts %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.path }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
 
-{% endfor %}
-
+  <h1>Projects</h1>
+    <ul class="posts">
+      <li>AutoTrader:</a> Automated trading system.</li>
+      <li><a href="https://github.com/riceluxs1t/KBOPrediction">KBO Prediction:</a> Predicting the result of KBO games.</li>
+      <li><a href="https://github.com/bluejay9676/SquatFormCorrector">SquatFormCorrector:</a> Breaking out of bad habits when squatting.</li>
+    </ul>
+</div>
