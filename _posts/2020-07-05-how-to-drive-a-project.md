@@ -14,10 +14,10 @@ July 6th marks the final day of my first full half at Facebook. I drove multiple
 - Find a bottleneck or a challenge the team's facing. Will our current solution handle 100x the current traffic? Do we own a part of a code that is crucial to our product's performance and reliability? Most importantly, can we provide more efficient/scalable/secure product to replace the current one?
 
 
-## Modeling and Defining a problem
+## Modeling and defining a problem
 - Why are we doing what we are doing right now?
 - What are the costs to fix this?
-- What are the possible solutions and what are possible wins or loses for each?
+- What are the possible solutions and what are possible wins or loses for each one?
 - Can we microservice-fy / productify the solution to be leveraged by a different product if possible?
 - What metrics do we need to define to track product's
     - Reliability
@@ -26,25 +26,26 @@ July 6th marks the final day of my first full half at Facebook. I drove multiple
 - Let the leadership know to discuss the cost and justify the project. Have them onboard and hold them accountable. Is the project worth the cost?
 
 
-## Planning, Setting Milestones
-- Scale up the project. Plan and set milestones by week to keep track of the project. Share with others as a status board for the leaderships to follow.
+## Planning milestones
+- Scale up the project. Plan and set milestones by week to keep track of the project. Share with others as a status board to follow.
 - Define costs and esitimate the costs. Give yourself a managable work-life balance. Avoid burnout. 
 
 
-## Execute, Get support, Give support
+## Execute, get support, give support and repeat
 - Get your prototype out there fast. Demo it to actors involved in your project. Prove them it works; it's better than the status quo; and that it's worth the cost.
 - Execute fast and be proactive.
     - Remove blockers fast and get help from people. They are there to help. But do not nag them with redundant or trivial questions. Ask about product behaviors or hacks that are not documented or poorly documented.
     - Check in on your colleagues and provide support if they need one. Make sure that everyone is unblocked ASAP. Setting up a weekly meeting helps.
 
 
-## Documentation Goes a Long Way
+## Documentation goes a long way
 - Keep the number of unecessary meetings to the minimum. Document everything and share within the team and org. You won't be pestored by trivial questions and they won't need to waste time asking trivial questions.
 
-## Keep Everyone Updated
-- Keep everyone engaged and updated on the status of the project. If you need their help they need to know the status of the project. 
+## Keep everyone updated
+- Keep everyone engaged and updated on the status of the project. If you need their help they need to know the status of the project. Setting up a weekly meeting helps.
 - The leadership and colleagues are working on many projects including yours. Actively keep them posted and maintain a clean documentation.
 
 ## Gathering data, metrics
-- When the project is being rolled out, gather logs and metrics to define clear wins, uncertainties, and loses. Wins gives you applaud; uncertainties and loses will give you work items to improve your product further.
+- When the project is being rolled out, gather logs and metrics to define clear wins, uncertainties, and loses. Without numbers your work might as well be meaningless. 
+- Wins gives you applaud; uncertainties and loses will give you work items to improve your product further.
 
