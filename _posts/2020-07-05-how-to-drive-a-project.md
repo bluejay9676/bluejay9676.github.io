@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "How To Drive A Project"
+title: "How To Drive a Project"
 ---
 
-# How To Drive A Project
+# How To Drive a Project
 
 July 6th marks the final day of my first full half at Facebook. I drove multiple projects this half and luckly some turned out to have very positive impacts on my team's product. Over the last 6 months, I have accomplished and learned more than I ever did in my life. Along the way I was starting to see a pattern in the endeavors that I deem 'successful'. All my successful projects (and my teammates projects) had a lot in common - how they were found, how they were defined, how they were implemented and how they were driven to the end. To serve my memory in the future and format all the floating learnings in my head, I thought it would be the best if I write it out and articulate with bullet points. So here it goes. This is my version of driving a successful project.
 
