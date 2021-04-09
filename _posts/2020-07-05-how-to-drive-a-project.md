@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Drive a Project"
+title: "How To Drive a Project - Cheat Sheet"
 ---
 
 
