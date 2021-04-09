@@ -5,7 +5,7 @@ title: "About"
 
 Currently at Facebook developing end-to-end encrypted messaging.
 
-In my free time, I build stuff that grasps my interest. Refer to projects section in the main page.
+In my free time, I build whatever grasps my interest. Refer to projects section in the main page.
 
 
 
