@@ -9,7 +9,7 @@ In my free time, I build stuff that grasps my interest. Refer to projects sectio
 
 
 
-> I love shipping scalable and useful products. I thrive with strong engineers and leaders I can trust.
+> I love shipping scalable and useful products. I enjoy working with strong engineers and leaders I can trust.
 
 --------------------------------
 - Email: jr51-AT-alumni.rice.edu.
