@@ -26,7 +26,7 @@ You know, all the common stuff that we see at any company. But these are still v
 
 5. Request for this specific feature has grown / This feature will improve the user experience greatly and will increase user engagement. → Quickly implement this and roll it out!
 
-## *Move Fast && Nothing at Facebook is somebody else's problem*
+## *Move Fast && Nothing at Facebook is Somebody Else's Problem*
 
 Delivering a reliable and scalable product fast has its set of prerequisites. In order to deliver fast, you first need to execute well. This means you :
 
